@@ -16,6 +16,12 @@ Create and activate a virtualenv with the development requirements:
 tox -e unit
 ```
 
+### Scenario tests
+
+```bash
+tox -e scenario
+```
+
 ### Static analysis
 
 ```bash
